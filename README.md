@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 [image5]: ./writeup_images/slidingWindow.png "Fit Visual"
 [image6]: ./writeup_images/output.png "Output"
 [image7]: ./writeup_images/finalImage.png "finalImage"
-[video1]: ./project_video.mp4 "Video"
+[video1]: ./project_video_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
