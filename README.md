@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image1]: ./writeup_images/chessboardUndistored.png "Undistorted"
 [image2]: ./writeup_images/straightlines2.jpg "original image"
 [image3]: ./writeup_images/binary.png "Binary Example"
-[image4]: ./writeup_images/birdView.jpg "Warp Example"
+[image4]: ./writeup_images/birdView.png "Warp Example"
 [image5]: ./writeup_images/slidingWindow.png "Fit Visual"
 [image6]: ./writeup_images/output.png "Output"
 [image7]: ./writeup_images/finalImage.png "finalImage"
